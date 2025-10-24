@@ -1,5 +1,5 @@
 # team-notes
-
+#modificando archivo para generar conflictoo
 Mini app de consola para gestionar notas de texto.
 
 ## 🚀 Instalación
