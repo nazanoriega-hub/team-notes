@@ -13,7 +13,6 @@
 - Estructura de carpetas reorganizada en `app/` y `data/`.
 - README actualizado con instrucciones y ejemplos.
 
----
 
 ## [Pre-release] - 2025-10-20
 ### Added

@@ -19,7 +19,11 @@ Cloná el proyecto:
 ```bash
 git clone https://github.com/<usuario>/team-notes.git
 <<<<<<< HEAD
+<<<<<<< HEAD
 cd team-notes
 =======
 cd team-notes
 >>>>>>> f5c2012 (Agregando informacion a CONTRIBUTING)
+=======
+cd team-notes
+>>>>>>> 782249192e7ba8933626f28ca344bf92641a4b06
