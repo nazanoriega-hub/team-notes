@@ -1,4 +1,4 @@
-## [v1.0.0] - 2025-10-27
+## [v1.0.0] - 2025-10-27 (Changelog)
 ### Added
 - Comando `add` para crear notas (`feature/2-crear-notas`).
 - Comando `list` y `search` para listar y buscar notas (`feature/3-listar-y-buscar`).
@@ -14,7 +14,7 @@
 - README actualizado con instrucciones y ejemplos.
 
 
-## [Pre-release] - 2025-10-20
+## [Pre-release] - 2025-10-27
 ### Added
 - Configuración inicial del repositorio.
 - Rama `develop` protegida, milestones y issues creadas.
